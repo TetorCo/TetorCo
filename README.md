@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Tetorco GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetorco&show_icons=true&theme=ayu-mirage)
+![Tetorco GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetorco&show_icons=true&theme=cobalt2)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzaa0323)](https://solved.ac/zzaa0323)
 
