@@ -5,6 +5,7 @@
 ![Tetorco GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetorco&show_icons=true&theme=cobalt2)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzaa0323)](https://solved.ac/zzaa0323)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=TetorCo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **TetorCo/TetorCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
