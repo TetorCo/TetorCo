@@ -1,11 +1,15 @@
-### Hi there 👋
+### 주니어 MLOps 엔지니어입니다. 👋
 
-[![Notion Badge](https://img.shields.io/badge/Notion-7719AA?style=flat-square&logo=notion&link=https://lush-saltopus-708.notion.site/TetorCo-Notion-28a2a3785b4d438d8eec908d8dd821d8)](https://lush-saltopus-708.notion.site/TetorCo-Notion-28a2a3785b4d438d8eec908d8dd821d8)
+- 🌱 I’m currently learning is MLOps, GAN
+
+- Email : tetorco@gmail.com
+
+<!--[![Notion Badge](https://img.shields.io/badge/Notion-7719AA?style=flat-square&logo=notion&link=https://lush-saltopus-708.notion.site/TetorCo-Notion-28a2a3785b4d438d8eec908d8dd821d8)](https://lush-saltopus-708.notion.site/TetorCo-Notion-28a2a3785b4d438d8eec908d8dd821d8)-->
 
 ![Tetorco GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetorco&show_icons=true&theme=cobalt2)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzaa0323)](https://solved.ac/zzaa0323)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=TetorCo&theme=dark)](https://github.com/TetorCo/daliy_commit_leetcode)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzaa0323)](https://solved.ac/zzaa0323)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=TetorCo&theme=dark)](https://github.com/TetorCo/daliy_commit_leetcode)-->
 
 <!--
 **TetorCo/TetorCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
