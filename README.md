@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning is MLOps, GAN
 
 - Email : tetorco@gmail.com
+- Blog : https://tetorco.tistory.com/
 
 <!--[![Notion Badge](https://img.shields.io/badge/Notion-7719AA?style=flat-square&logo=notion&link=https://lush-saltopus-708.notion.site/TetorCo-Notion-28a2a3785b4d438d8eec908d8dd821d8)](https://lush-saltopus-708.notion.site/TetorCo-Notion-28a2a3785b4d438d8eec908d8dd821d8)-->
 
