@@ -1,6 +1,6 @@
-### 주니어 MLOps 엔지니어입니다. 👋
+### 주니어 DATA & MLOps 엔지니어입니다. 👋
 
-- 🌱 I’m currently learning is MLOps, GAN
+- 🌱 I’m currently learning is MLOps, GAN, Data Enginnering
 
 - Email : tetorco@gmail.com
 - Blog : https://tetorco.tistory.com/
