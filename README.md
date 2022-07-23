@@ -1,4 +1,4 @@
-### 주니어 DATA & MLOps 엔지니어입니다. 👋
+### 데이터 엔지니어링 & MLOps 공부 중입니다. 👋
 
 - 🌱 I’m currently learning is MLOps, GAN, Data Enginnering
 
