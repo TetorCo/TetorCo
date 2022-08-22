@@ -1,6 +1,6 @@
 ### 데이터 엔지니어링 & MLOps 공부 중입니다. 👋
 
-- 🌱 I’m currently learning is MLOps, GAN, Data Enginnering
+- 🌱 I’m currently learning is Data Enginnering, MLOps, GAN
 
 - Email : tetorco@gmail.com
 - Blog : https://tetorco.tistory.com/
