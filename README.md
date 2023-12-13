@@ -1,4 +1,4 @@
-### 데이터 엔지니어링 & MLOps 공부 중입니다. 👋
+### 데이터의 이야기를 듣는 엔지니어 김태범입니다. 👋
 
 - 🌱 I’m currently learning is Data Enginnering, MLOps
 
