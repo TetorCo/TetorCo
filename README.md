@@ -1,28 +1,35 @@
-### 데이터의 이야기를 듣는 엔지니어 김태범입니다. 👋
+## About ME
+안녕하세요, 데이터의 이야기를 듣는 김태범입니다.
 
-- 🌱 I’m currently learning is Data Enginnering, MLOps
+모두가 데이터와 친해지는 것을 꿈꿉니다.
 
-- Email : tetorco@gmail.com
-- Blog : https://tetorco.tistory.com/
+### 📚 Tech Stack
+#### Language
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<!--[![Notion Badge](https://img.shields.io/badge/Notion-7719AA?style=flat-square&logo=notion&link=https://lush-saltopus-708.notion.site/TetorCo-Notion-28a2a3785b4d438d8eec908d8dd821d8)](https://lush-saltopus-708.notion.site/TetorCo-Notion-28a2a3785b4d438d8eec908d8dd821d8)
+#### DB
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Tetorco GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetorco&show_icons=true&theme=cobalt2)-->
+#### Infra
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzaa0323)](https://solved.ac/zzaa0323)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=TetorCo&theme=dark)](https://github.com/TetorCo/daliy_commit_leetcode)-->
+#### Monitoring & Test
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-<!--
-**TetorCo/TetorCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Collaboration
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<img src="https://img.shields.io/badge/asana-%23C61C3E.svg?&style=for-the-badge&logo=asana&logoColor=white" />
 
-Here are some ideas to get you started:
+### 🚙 Experience
+* Codestates Product Manager(2022.05 ~ 2023.06)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Email : tetorco@gmail.com
+### 💻 Portfolio : https://www.miricanvas.com/v/1zy2fy
+### 📗 Blog : https://tetorco.tistory.com/
