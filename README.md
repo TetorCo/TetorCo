@@ -1,5 +1,7 @@
 ## About ME
-안녕하세요, "문제 정의" 하는 DE 김태범입니다. 모두가 데이터와 친해지는 날을 꿈꿉니다.
+안녕하세요, "문제 정의" 하는 DE 김태범입니다.
+
+**MLOps, Data Engineering, 자동화**에 관심이 많습니다.
 
 ### 📚 Tech Stack
 #### Language
